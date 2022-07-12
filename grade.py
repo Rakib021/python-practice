@@ -1,0 +1,5 @@
+num1 = input("Enter an Integer Number :")
+num2 =input("Enter an another integer Number :")
+num1 = int(num1)
+num2 = int(num2)
+print("Total", num1 + num2)
